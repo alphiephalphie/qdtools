@@ -1,3 +1,5 @@
+![pic](https://github.com/a-woodbury/qdtools/blob/master/qd1.png)
+
 # qdtools
 Python module for data science; vanilla modeling, rapid preprocessing
 
