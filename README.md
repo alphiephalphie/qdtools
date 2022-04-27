@@ -3,4 +3,4 @@
 # qdtools
 Python module for data science; vanilla modeling, rapid preprocessing
 
-I am in my final weeks of my Data Science bootcamp and will refine this repository soon. Thank you!
+See more in my article on [Medium](https://medium.com/towards-data-science/the-makings-of-a-module-5990100216d4)
